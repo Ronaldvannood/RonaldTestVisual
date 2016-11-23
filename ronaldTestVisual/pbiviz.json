@@ -1,0 +1,24 @@
+{
+  "visual": {
+    "name": "ronaldTestVisual",
+    "displayName": "RonaldTestVisual",
+    "guid": "PBI_CV_AF8E3199_CAB5_492B_9DFC_9B3B49D18E52",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.2.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json"
+}
